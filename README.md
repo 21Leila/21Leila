@@ -12,13 +12,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png%22%3E">
-  <img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png%22/%3E">
-  <img align="center" alt="sql" height="40" width="40" src="https://img.icons8.com/ios/50/000000/sql.png%22%3E">
-  <img align="center" alt="VS" height="40" width="40" src="https://img.icons8.com/ios/50/000000/visual-studio-logo.png%22%3E">
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg%22/%3E"/>
-
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/880941008714596383/892163230603026462/download20210901183556.png?width=473&height=473">
-  
+  <img align="center" alt="Mysql" height="40" width="40" src="https://kondado.com.br/blog/wp-content/uploads/2020/06/mysql_blog.png">
+  <img align="center" alt="VS" height="40" width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png">
+    <img align="center" alt="Spring" height="40" width="40" src="https://user-images.githubusercontent.com/32443720/112219552-e8980700-8c03-11eb-88e1-b26cfe77f3d7.png">
 </div>
   
   ##
@@ -30,7 +26,6 @@
  
   <a href = "mailto:leilafernandadasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leilafernandadasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/21Leila/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
+  [Snake animation](https://github.com/21Leila/21Leila/blob/output/github-contribution-grid-snake.svg)
